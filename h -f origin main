@@ -1,0 +1,113 @@
+[33mcommit b347b60154b024bff276055bf09379cf7ac39874[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: capnmav77 <ramesh.d@couchbase.com>
+Date:   Sun Mar 9 23:54:16 2025 +0530
+
+    modified main file
+
+[33mcommit 04e5e8e8bf1df85d0e13eb3f0b6ccff1fd17dedb[m
+Author: capnmav77 <ramesh.d@couchbase.com>
+Date:   Sun Mar 9 23:48:40 2025 +0530
+
+    modified main file
+
+[33mcommit 0fcfdf3a04592a930ad9ea00ec695b22888d5892[m
+Author: Ramesh <114616616+capnmav77@users.noreply.github.com>
+Date:   Sun Mar 9 22:59:23 2025 +0530
+
+    Update README.md
+
+[33mcommit 565e3f0ca3f6326d846fdc7556b34cf83711ddc5[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Thu Mar 6 02:26:21 2025 +0530
+
+    mod cpp
+
+[33mcommit 2a98a39d690150f103150f18c8398303fc97d4d9[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Thu Mar 6 02:25:20 2025 +0530
+
+    mod cpp
+
+[33mcommit 8d61f01ab6a552a70d866bb281cf2946a0f60aad[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Thu Mar 6 02:13:34 2025 +0530
+
+    mod cpp
+
+[33mcommit 28cc17f98732ec1d40465bed377221f33273efdf[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:55:50 2025 +0530
+
+    mod cpp
+
+[33mcommit 7c149f142fd8c43c227b2562d8a2f3fe13399131[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:52:35 2025 +0530
+
+    mod cpp
+
+[33mcommit a0983712ab3ef7806d8bb6ae25ece6d79ec817a6[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:49:03 2025 +0530
+
+    mod cpp
+
+[33mcommit 8be4d162f35cc32d6303303ec9e944ef7e896439[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:42:47 2025 +0530
+
+    mod cpp
+
+[33mcommit 2e0197b37fc3ad28e28be1bfcc482022b327ca62[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:35:39 2025 +0530
+
+    mod cpp
+
+[33mcommit 74819e122c1961efac7ae22e5e1178eb91291b8b[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:31:36 2025 +0530
+
+    mod cpp
+
+[33mcommit 35e092ba7fab72f8c983be744afe4c608576ec59[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:27:41 2025 +0530
+
+    mod cpp
+
+[33mcommit d810ce3c5fdef5f44713ccdc9d443515105f9391[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:20:17 2025 +0530
+
+    mod cpp
+
+[33mcommit 612285906aa4b3e60e35e2c4aafdcf4e12175acd[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:18:41 2025 +0530
+
+    mod cpp
+
+[33mcommit 59ef4845c38afe7ec5819156db743f9946028885[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:17:43 2025 +0530
+
+    mod cpp
+
+[33mcommit 2810bbd9aeedea560c88c13c5e8e75c2903427ce[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 21:06:47 2025 +0530
+
+    modified makefile
+
+[33mcommit bc1268e57784a9e94065b45c4b38fabbd032ed7f[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 20:58:10 2025 +0530
+
+    amended the makefile and the cpp file , added gitignore and readme
+
+[33mcommit 8f71fa96b368dfa50e2a786723d4362a45ca705f[m
+Author: capnmav77 <its.mastermind77@gmail.com>
+Date:   Sun Feb 23 20:22:33 2025 +0530
+
+    added dockerfile and template code
