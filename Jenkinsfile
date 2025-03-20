@@ -13,7 +13,7 @@ pipeline {
         stage('Test') {
             steps {
                 script {
-                    sh './output'  // Run the compiled C++ program
+                    sh './output_wrong'  // Run the compiled C++ program
                 }
             }
         }
